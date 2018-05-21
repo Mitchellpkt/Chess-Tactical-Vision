@@ -28,4 +28,4 @@ Please feel free to contribute to this project! Always looking for help.
 
 It would be neat to add this to Lichess studies and post-game analysis (i.e. the same pages where stockfish is enabled)
 
-!!!! Don't be a scumbag and use this for cheating. 
+# This is not to be used for cheating! Don't be a scumbag.
